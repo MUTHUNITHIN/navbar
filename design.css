@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif; /* Setting font for the body */
+    margin: 0;
+    padding: 0;
+    background-color: #e9ecef; /* Light grey background color */
+}
+
+header {
+    background-color: #007bff; /* Blue background for header */
+    color: white; /* White text color */
+    padding: 20px; /* Padding around the header */
+    text-align: center; /* Centered text alignment */
+}
+
+h1 {
+    margin: 0; /* No margin for h1 */
+}
+
+main {
+    max-width: 800px; /* Maximum width for the main content */
+    margin: 20px auto; /* Centering the main content */
+    padding: 20px; /* Padding around the main content */
+    background-color: white; /* White background for main content */
+    border: 2px solid #007bff; /* Blue border around main content */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+section {
+    margin-bottom: 20px; /* Space between sections */
+    padding: 15px; /* Padding inside each section */
+    border: 1px solid #007bff; /* Blue border for sections */
+    border-radius: 5px; /* Rounded corners for sections */
+}
+
+h2 {
+    color: #007bff; /* Blue color for h2 headings */
+}
+
+p {
+    line-height: 1.6; /* Improved readability with line height */
+}
+
+footer {
+    text-align: center; /* Centered text alignment for footer */
+    padding: 10px; /* Padding around the footer */
+    background-color: #343a40; /* Dark background for footer */
+    color: white; /* White text color */
+    position: relative; /* Position relative for footer */
+    bottom: 0; /* Align footer to the bottom */
+    width: 100%; /* Full width for footer */
+}
